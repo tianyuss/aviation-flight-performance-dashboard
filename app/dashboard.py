@@ -193,7 +193,6 @@ st.dataframe(
 st.markdown(
     "<div class='disclaimer'>"
     "*Computed delay columns are calculated as the difference between scheduled and actual timestamps. "
-    "This method does not follow IATA / DOT industry-standard delay definitions."
     "</div>",
     unsafe_allow_html=True
 )
